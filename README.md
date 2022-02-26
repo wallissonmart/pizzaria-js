@@ -1,1 +1,1 @@
-# Site de uma pizaria desenvolvido com JavaScript puro
+# Site de uma pizzaria desenvolvido com JavaScript puro
